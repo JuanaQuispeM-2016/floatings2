@@ -1,0 +1,28 @@
+.uno{background-color:#ee3e64;
+height: 200px;
+width: 200px;
+position: relative;
+top: 0px;
+left: 0px;
+right:0;
+bottom:0;
+
+}
+.dos{background-color: #44accf;
+height: 200px;
+width: 200px;
+position: relative;
+top: 0px;
+left: 200px;
+right: 0
+
+}
+.tres{background-color: #b7d84d;
+height: 200px;
+width: 200px;
+position: relative;
+}
+
+body{margin: 0;
+padding: 0;
+}
